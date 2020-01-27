@@ -38,9 +38,16 @@ git diff (que ha cambiado)
 		- file metada
 		- 
 	cambios hechos not staged
+		git diff
 
 	git diff --staged --no--renames
 		GIT is only worried about the context of the file (don't care about name, so same content it could think it is the same file)
+		e69de29 <-- empty file hash, git sólo piensa en hash
 	
 SHA1 hashes (<-- leer un poco, identifica un fichero)
+
+git add ; git commit; <-- git commit -a (stagde the changes) -m ("mensaje")k
+*************************************************************************************************
+
+
 	
