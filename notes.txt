@@ -1,0 +1,46 @@
+git remote add origin "http:/ssdsasfasdf"
+git push -u origin master
+
+git fetch (pillo rama)
+git remote
+git remote -v
+
+git init
+git add
+git commit
+
+c:\_personal\001Git\001HelloWord>git config --local user.name metatame79
+
+c:\_personal\001Git\001HelloWord>git config --local user.email metatame79@gmail.com
+
+
+git status
+
+track (commited-> modified-> stagde) Vs unTracked
+  git add (nuevos ficheros, y modificaciones to de stagde)
+**********************************************************************************
+git config, git help, git remote, git push -, git add git push...
+git status 
+	(branch,  stagde (listos subir), 
+git
+	track (committed, modified, Staged) Vs untrack
+	git add (move to staged new files, or mo files)
+git status - s / git status --short
+	C1		C2		C3
+	Staged	modified NAME
+	
+	M=modified
+	A= New File
+	??= New File untrack
+git diff (que ha cambiado)
+	cambios staged - git diff --Staged
+		-ficheros
+		- file metada
+		- 
+	cambios hechos not staged
+
+	git diff --staged --no--renames
+		GIT is only worried about the context of the file (don't care about name, so same content it could think it is the same file)
+	
+SHA1 hashes (<-- leer un poco, identifica un fichero)
+	
