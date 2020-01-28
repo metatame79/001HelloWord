@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 926D-7BCF
+
+ Directory of c:\_personal\001Git\001HelloWord
+
+28/01/2020  18:46    <DIR>          .
+28/01/2020  18:46    <DIR>          ..
+27/01/2020  11:24             1.483 notes.txt
+28/01/2020  18:46                 0 otroFichero.txt
+27/01/2020  10:42               146 README.md
+               3 File(s)          1.629 bytes
+               2 Dir(s)  855.763.066.880 bytes free
